@@ -1,0 +1,30 @@
+.DS_Store
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Build outputs
+dist/
+build/
+.cache/
+.tmp/
+tmp/
+
+# Tooling
+.vite/
+.parcel-cache/
+coverage/
+
+# Editor directories
+.idea/
+.vscode/
+
